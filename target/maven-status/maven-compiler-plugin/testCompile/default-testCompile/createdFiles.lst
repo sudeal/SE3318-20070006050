@@ -1,0 +1,6 @@
+org\example\AppTest.class
+org\example\NotificationServiceTest.class
+org\example\TaskManagerTest.class
+org\example\TaskTest.class
+org\example\UserTest.class
+org\example\ProjectTest.class
