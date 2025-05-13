@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\Windows10\IdeaProjects\Week-10.2\src\main\java\org\example\Character.java">
+<error line="7" column="5" severity="warning" message="Javadoc açıklaması eksik." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="8" column="5" severity="warning" message="Javadoc açıklaması eksik." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="9" column="5" severity="warning" message="Javadoc açıklaması eksik." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="10" column="5" severity="warning" message="Javadoc açıklaması eksik." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="C:\Users\Windows10\IdeaProjects\Week-10.2\src\main\java\org\example\Main.java">
+</file>
+</checkstyle>
